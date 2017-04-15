@@ -1,0 +1,22 @@
+{
+  "name": "msbot",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chatbot"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "jimmy",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
